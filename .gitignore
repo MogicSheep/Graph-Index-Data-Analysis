@@ -13,3 +13,6 @@ __pycache
 *.json
 *.yml
 *.xml
+*.log
+*.png
+*.bin
